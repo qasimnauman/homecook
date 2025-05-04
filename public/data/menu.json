@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCwnSE18JgqmYHIMlmUAcp5G_yMyMkzDWxyQ&s",
+        "price": 300,
+        "serves": 1,
+        "category": "Non-Veg",
+        "description": "Aromatic basmati rice cooked with tender chicken and flavorful spices."
+    },
+    {
+        "id": 2,
+        "name": "Beef Karahi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpWCroRpW9WdrDAV-6CZ8NHoLPPUj_PJiew&s",
+        "price": 600,
+        "serves": 2,
+        "category": "Non-Veg",
+        "description": "Delicious beef cooked in a traditional wok with spices and tomatoes."
+    },
+    {
+        "id": 3,
+        "name": "Daal Chawal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Vj-O4tyK2DyUyNp6wSy4YEfo8erFaA-7uQ&s",
+        "price": 200,
+        "serves": 1,
+        "category": "Veg",
+        "description": "Comforting lentils served with steamed rice, a vegetarian delight."
+    },
+    {
+        "id": 4,
+        "name": "Aloo Qeema",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShaytPa3q5aU-eraxhlOwMt0gMzIfSvLwakA&s",
+        "price": 250,
+        "serves": 1,
+        "category": "Non-Veg",
+        "description": "Minced meat cooked with potatoes and spices, a hearty meal."
+    },
+    {
+        "id": 5,
+        "name": "Palak Paneer",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzm1NT_6uwzlCnYgsTzbZBSuc9MmfOu6VZZw&s",
+        "price": 280,
+        "serves": 1,
+        "category": "Veg",
+        "description": "Spinach and cottage cheese cooked in a creamy, spiced gravy."
+    },
+    {
+        "id": 6,
+        "name": "Gulab Jamun",
+        "image": "https://theartisticcook.com/wp-content/uploads/2024/10/Gulab-Jamun-with-Milk-Powder.jpg",
+        "price": 150,
+        "serves": 2,
+        "category": "Sweet",
+        "description": "Soft and spongy milk-based dumplings soaked in sugar syrup."
+    },
+    {
+        "id": 7,
+        "name": "Ras Malai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6IAAs7FgVw74i63MpP_npa33xk3Mtwje2Q&s",
+        "price": 180,
+        "serves": 2,
+        "category": "Sweet",
+        "description": "Creamy and rich dessert made with milk and cardamom."
+    },
+    {
+        "id": 8,
+        "name": "Mango Lassi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSugNuYpGRKKVLB_Djcryit9aIWIXnxR-aNMQ&s",
+        "price": 120,
+        "serves": 1,
+        "category": "Drink",
+        "description": "Refreshing yogurt-based drink blended with ripe mangoes."
+    },
+    {
+        "id": 9,
+        "name": "Masala Chai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jP4Dd4hpBtcN6k02caLWC5Y67-i5Ps6n2w&s",
+        "price": 80,
+        "serves": 1,
+        "category": "Drink",
+        "description": "Spiced tea brewed with milk and aromatic Indian spices."
+    }
+]
