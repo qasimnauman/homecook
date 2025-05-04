@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="mb-6 md:mb-0">
             <Link to="/" className="flex items-center">
               <img
-                src="src\assets\logofinal.png"
+                src="src/assets/logofinal.png"
                 className="mr-3 h-36"
                 alt="Logo"
               />
