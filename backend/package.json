@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "homecook backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qasim Nauman",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.2",
+    "mongoose-aggregate-paginate-v2": "^1.1.4",
+    "moongoose": "^0.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
